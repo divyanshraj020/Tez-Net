@@ -1,0 +1,7 @@
+{
+  "name": "Tez Net | Speed Test",
+  "description": "Tez Net - Internet ki sahi raftaar. A high-performance internet speed test with custom link testing capabilities.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
